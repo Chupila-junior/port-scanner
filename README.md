@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+
 # PortScanner 🔎
 
 Um scanner de portas TCP simples e eficiente, desenvolvido em Python.
